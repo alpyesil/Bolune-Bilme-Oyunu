@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_1_den_25_e_kadar_olan_sayıların_kareleri_toplamını_bulan</RootNamespace>
+  </PropertyGroup>
+
+</Project>
